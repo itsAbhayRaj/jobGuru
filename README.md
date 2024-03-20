@@ -1,16 +1,18 @@
-ONLINE JOB PORTAL USING REACT AND SANITY
+AN ONLINE JOB PORTAL THAT USES SANITY AND REACT
 
 
-This website is all about searching the top jobs from top-reputed companies all over the world.
-It has additional functionalities of searching and filter jobs on based of their job role or experience.
-Further more it has a form where a company user who wants to add their job on to our site can fill the form and add it.
-Next, it has an option where a student/user can save the job by clicking on bookmark icon.
+The main purpose of our website is to look for the best jobs available globally from highly reputable firms.
+It also offers the ability to search and filter jobs according to a user's experience or employment role.
+Additionally, it contains a form that a firm user can fill out and add their job to our website.
+The user or learner can then choose to save the work by clicking on the bookmark button.
 
-Now one surprise section added is of discussion Chamber which is connected with Sanity(Headless CMS).
-A text-editor is added with functionalities of bold,italic,etc and image section where a user can just upload an image or can copy any image address from wherever and it will automatically preview image according to the type of input url using regex.
-User can reply the same thing as well at the same time.
+A new and unexpected section has been added: the discussion chamber, which has to do with sanity (Headless CMS).
+An image area has been added, where users may upload images or copy any image URL from anywhere, and the text editor will automatically preview images based on the type of input url using regex. Other features include bold, italic, and other functions.
 
-This website is fullt responsive..
+The user can simultaneously respond with the same item.
+
+This webpage responds fully.
+
 
 Home Page
 
