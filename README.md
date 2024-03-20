@@ -14,7 +14,7 @@ This website is fullt responsive..
 
 Home Page
 
-![Screenshot 2023-01-28 at 8 49 15 PM](https://user-images.githubusercontent.com/114575434/215274848-ce9787c7-8bdc-43c5-9f58-f7862b4cecd7.png)
+![Screenshot 2023-01-28 at 8 49 15 PM](/src/Assets/images/Screenshot%20.png)
 
 
 Jobs Page
